@@ -1,5 +1,7 @@
-By default, I use this alternative, and highly effective approach: https://www.sitepoint.com/organize-project-files/?utm_source=rss.   
-The content is copied and repeated below:
+## How to Properly Organize Files
+
+By default, I use this alternative, and highly effective approach: https://www.sitepoint.com/organize-project-files/?utm_source=rss. All thanks to del Alba, go to the link for more details.   
+His content is copied and summarized below:
 
 ### Case 1: Web App
 Let’s consider a web application — software that runs on a web server and that you can access through the browser, either on your desktop computer or mobile device. And let’s say this is a web app that offers a membership to access a premium service of sorts — maybe exclusive reports, or travel tips, or a library of videos.
