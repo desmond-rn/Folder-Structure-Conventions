@@ -34,6 +34,7 @@ Now let’s consider an application that you can download and install on your co
 ```
 File Structure
 ├── .gitignore
+├── build
 ├── data
 ├── doc
 ├── legacy
@@ -42,6 +43,7 @@ File Structure
 │   └── system
 ├── LICENSE
 ├── README
+├── src
 ├── tests
 ├── thirdparty
 ├── tools
