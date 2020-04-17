@@ -1,3 +1,5 @@
+By default, I use this alternative, and highly effective approach: https://www.sitepoint.com/organize-project-files/?utm_source=rss 
+
 Folder Structure Conventions
 ============================
 
